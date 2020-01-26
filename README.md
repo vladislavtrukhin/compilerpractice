@@ -1,2 +1,2 @@
 # compilerpractice
-Practicing making custom languages and compilers
+Learning and messing around with compilers 
